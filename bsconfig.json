@@ -1,0 +1,11 @@
+{
+  "name": "@bilalvis01/bs-markdown-to-jsx",
+  "sources": "src",
+  "bs-dependencies": [
+    "reason-react"
+  ],
+  "reason": {
+    "react-jsx": 3
+  },
+  "rfmt": 3
+}

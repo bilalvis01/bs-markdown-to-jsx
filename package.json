@@ -1,0 +1,29 @@
+{
+  "name": "@bilalvis01/bs-markdown-to-jsx",
+  "version": "0.1.0",
+  "description": "Reason bindings for markdown-to-jsx",
+  "main": "Markdown.js",
+  "dependencies": {},
+  "devDependencies": {
+    "bs-platform": "^5.2.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilalvis01/bs-markdown-to-jsx.git"
+  },
+  "keywords": [
+    "react",
+    "reasonml",
+    "markdown-to-jsx",
+    "bucklescript"
+  ],
+  "author": "Bilal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bilalvis01/bs-markdown-to-jsx/issues"
+  },
+  "homepage": "https://github.com/bilalvis01/bs-markdown-to-jsx#readme"
+}
